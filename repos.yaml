@@ -1,0 +1,138 @@
+# Last generated: 2022-08-26
+Graduated:
+  containerd: https://github.com/containerd/containerd
+  CoreDNS: https://github.com/coredns/coredns
+  Envoy: https://github.com/envoyproxy/envoy
+  etcd: https://github.com/etcd-io/etcd
+  fluentd: https://github.com/fluent/fluentd
+  Harbor: https://github.com/goharbor/harbor
+  Helm: https://github.com/helm/helm
+  Jaeger: https://github.com/jaegertracing/jaeger
+  Kubernetes: https://github.com/kubernetes/kubernetes
+  Linkerd: https://github.com/linkerd/linkerd2
+  OPA: https://github.com/open-policy-agent/opa
+  Prometheus: https://github.com/prometheus/prometheus
+  Rook: https://github.com/rook/rook
+  SPIFFE: https://github.com/spiffe/spiffe
+  SPIRE: https://github.com/spiffe/spire
+  TUF: https://github.com/theupdateframework/python-tuf
+  TiKV: https://github.com/tikv/tikv
+  Vitess: https://github.com/vitessio/vitess
+
+Incubating:
+  Argo: https://github.com/argoproj/argo-workflows
+  Backstage: https://github.com/backstage/backstage
+  Buildpacks: https://github.com/buildpacks/pack
+  Chaos Mesh: https://github.com/chaos-mesh/chaos-mesh
+  Cilium: https://github.com/cilium/cilium
+  CloudEvents: https://github.com/cloudevents/spec
+  CNI: https://github.com/containernetworking/cni
+  Contour: https://github.com/projectcontour/contour
+  Cortex: https://github.com/cortexproject/cortex
+  CRI-O: https://github.com/cri-o/cri-o
+  Crossplane: https://github.com/crossplane/crossplane
+  CubeFS: https://github.com/cubeFS/cubefs
+  Dapr: https://github.com/dapr/dapr
+  Dragonfly: https://github.com/dragonflyoss/Dragonfly2
+  Emissary-Ingress: https://github.com/emissary-ingress/emissary
+  Falco: https://github.com/falcosecurity/falco
+  flagger: https://github.com/fluxcd/flagger
+  Flux: https://github.com/fluxcd/flux2
+  gRPC: https://github.com/grpc/grpc
+  Hubble: https://github.com/cilium/hubble
+  in-toto: https://github.com/in-toto/in-toto
+  Keda: https://github.com/kedacore/keda
+  Keptn: https://github.com/keptn/keptn
+  Knative: https://github.com/knative/serving
+  KubeEdge: https://github.com/kubeedge/kubeedge
+  KubeVirt: https://github.com/kubevirt/kubevirt
+  Kyverno: https://github.com/kyverno/kyverno
+  Litmus: https://github.com/litmuschaos/litmus
+  Longhorn: https://github.com/longhorn/longhorn
+  NATS: https://github.com/nats-io/nats-server
+  Notary: https://github.com/notaryproject/notary
+  OpenMetrics: https://github.com/OpenObservability/OpenMetrics
+  OpenTelemetry: https://github.com/open-telemetry/community
+  Operator Framework: https://github.com/operator-framework/operator-sdk
+  Tetragon: https://github.com/cilium/tetragon
+  Thanos: https://github.com/thanos-io/thanos
+  Volcano: https://github.com/volcano-sh/volcano
+
+Sandbox:
+  Aeraki Mesh: https://github.com/aeraki-mesh/aeraki
+  Akri: https://github.com/project-akri/akri
+  Antrea: https://github.com/antrea-io/antrea
+  Artifact Hub: https://github.com/artifacthub/hub
+  Athenz: https://github.com/AthenZ/athenz
+  BFE: https://github.com/bfenetworks/bfe
+  Brigade: https://github.com/brigadecore/brigade
+  CDK8s: https://github.com/cdk8s-team/cdk8s
+  cert-manager: https://github.com/cert-manager/cert-manager
+  Chaosblade: https://github.com/chaosblade-io/chaosblade
+  Cloud Custodian: https://github.com/cloud-custodian/cloud-custodian
+  Clusterpedia: https://github.com/clusterpedia-io/clusterpedia
+  CNI-Genie: https://github.com/cni-genie/CNI-Genie
+  Confidential Containers: https://github.com/confidential-containers/documentation
+  Curiefense: https://github.com/curiefense/curiefense
+  Devfile: https://github.com/devfile/api
+  DevStream: https://github.com/devstream-io/devstream
+  Dex: https://github.com/dexidp/dex
+  Distribution: https://github.com/distribution/distribution
+  external-secrets: https://github.com/external-secrets/external-secrets
+  Fluid: https://github.com/fluid-cloudnative/fluid
+  Fonio: https://github.com/foniod/foniod
+  Inclavare Containers: https://github.com/inclavare-containers/inclavare-containers
+  k3s: https://github.com/k3s-io/k3s
+  k8gb: https://github.com/k8gb-io/k8gb
+  K8up: https://github.com/k8up-io/k8up
+  Karmada: https://github.com/karmada-io/karmada
+  Krator: https://github.com/krator-rs/krator
+  keylime: https://github.com/keylime/keylime
+  Konveyor: https://github.com/konveyor/move2kube
+  Krustlet: https://github.com/krustlet/krustlet
+  Kube-OVN: https://github.com/kubeovn/kube-ovn
+  kube-rs: https://github.com/kube-rs/kube-rs
+  KubeArmor: https://github.com/kubearmor/kubearmor
+  KubeDL: https://github.com/kubedl-io/kubedl
+  Kuberhealthy: https://github.com/kuberhealthy/kuberhealthy
+  KubeVela: https://github.com/kubevela/kubevela
+  KUDO: https://github.com/kudobuilder/kudo
+  Kuma: https://github.com/kumahq/kuma
+  Meshery: https://github.com/meshery/meshery
+  Metal3-io: https://github.com/metal3-io/baremetal-operator
+  Network Service Mesh: https://github.com/networkservicemesh/networkservicemesh
+  Nocalhost: https://github.com/nocalhost/nocalhost
+  Open Cluster Management: https://github.com/open-cluster-management-io/ocm
+  Open Service Mesh: https://github.com/openservicemesh/osm
+  OpenCost: https://github.com/kubecost/opencost
+  OpenEBS: https://github.com/openebs/openebs
+  OpenELB: https://github.com/openelb/openelb
+  OpenFeature: https://github.com/open-feature/community
+  OpenFunction: https://github.com/OpenFunction/OpenFunction
+  OpenGitOps: https://github.com/open-gitops/project
+  OpenKruise: https://github.com/openkruise/kruise
+  OpenYurt: https://github.com/openyurtio/openyurt
+  ORAS: https://github.com/oras-project/oras
+  Parasec: https://github.com/parallaxsecond/parsec
+  Piraeus Datastore: https://github.com/piraeusdatastore/piraeus
+  Pixie: https://github.com/pixie-io/pixie
+  Porter: https://github.com/getporter/porter
+  Pravega: https://github.com/pravega/pravega
+  SchemaHero: https://github.com/schemahero/schemahero
+  sealer: https://github.com/alibaba/sealer
+  Serverless Workflow Specification: https://github.com/serverlessworkflow/specification
+  Service Mesh Interface: https://github.com/servicemeshinterface/smi-spec
+  Service Mesh Performance: https://github.com/service-mesh-performance/service-mesh-performance
+  Skooner: https://github.com/skooner-k8s/skooner
+  Strimzi: https://github.com/strimzi/strimzi-kafka-operator
+  Submariner: https://github.com/submariner-io/submariner
+  SuperEdge: https://github.com/superedge/superedge
+  Telepresence: https://github.com/telepresenceio/telepresence
+  Teller: https://github.com/SpectralOps/Teller
+  Tinkerbell: https://github.com/tinkerbell/tink
+  Tremor: https://github.com/tremor-rs/tremor-runtime
+  Trickster: https://github.com/trickstercache/trickster
+  Vineyard: https://github.com/v6d-io/v6d
+  Virtual Kubelet: https://github.com/virtual-kubelet/virtual-kubelet
+  wasmCloud: https://github.com/wasmCloud/wasmCloud
+  WasmEdge Runtime: https://github.com/WasmEdge/WasmEdge
